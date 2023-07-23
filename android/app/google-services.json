@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178963458683",
+    "project_id": "explaned-c62ae",
+    "storage_bucket": "explaned-c62ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178963458683:android:84b094b352ee55f97e90de",
+        "android_client_info": {
+          "package_name": "com.ryanprw.explanedtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178963458683-vpplji9m936bpn6m8i8mod0la7d6rnek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WMlaPHjeVmxEBx2_ue0mE6tyUzE9xrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178963458683-vpplji9m936bpn6m8i8mod0la7d6rnek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
