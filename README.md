@@ -1,16 +1,42 @@
-# explanedtour
 
-A new Flutter project.
+# 🛫Flutter Travel App Concept 
+
+Explaned A travel and airplane application for those of you who want to enjoy a vacation 
+
+
+Star⭐ the repo if you like what you see😉.
+<p align="center">
+  <a href="https://flutter.dev/"><img alt="Platform" src="https://img.shields.io/badge/platform-Flutter-blue.svg"></a>
+  <a href="https://github.com/Ryanprw/Wisata/"><img alt="Star" src="https://img.shields.io/github/stars/Ryanprw/Explaned-Travel"></a>
+</p>
+
+
+## 📸 ScreenShots
+![Cover](https://github.com/Ryanprw/Explaned-Travel/assets/54059328/d16f72ce-eb2b-405e-aa34-3a03a05158e5)
 
 ## Getting Started
+To build and run this project:
 
-This project is a starting point for a Flutter application.
+1. Get Flutter [here](https://flutter.dev) if you don't already have it
+2. Clone this repository.
+3. `cd` into the repo folder.
+4. run `flutter run-android` to build the app.
 
-A few resources to get you started if this is your first Flutter project:
+## :tada: Features App
+- List 
+- Detail
+- card balance 
+- Checkout
+- Choose Seat
+- History Payment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Firebase Database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :hammer_and_wrench: Dependencies
+- google_fonts
+- flutter_bloc
+- firebase_auth
+- firebase_core 
+- cloud_firestore 
+- equatable
+- intl
