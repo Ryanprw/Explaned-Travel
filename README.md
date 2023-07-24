@@ -22,7 +22,7 @@ To build and run this project:
 3. `cd` into the repo folder.
 4. run `flutter run-android` to build the app.
 
-## :tada: Features App
+##  Features App
 - List 
 - Detail
 - card balance 
@@ -32,7 +32,7 @@ To build and run this project:
 
 ## Firebase Database
 
-## :hammer_and_wrench: Dependencies
+##  Dependencies
 - google_fonts
 - flutter_bloc
 - firebase_auth
